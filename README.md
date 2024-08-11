@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## INSPIRED BY Web Tech Knowledge
+Some of this project is inspired by Web Tech Knowledge on their YouTube channel: https://youtu.be/kR4fhanxOf4?si=CEilrvYPet_9KLO6
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
